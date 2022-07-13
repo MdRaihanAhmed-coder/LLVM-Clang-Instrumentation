@@ -3,7 +3,7 @@ A simple example of instrumentation for C using LLVM and Clang 14. LLVM Pass is 
 
 
 ## Build
-- [Clone my repo inside LLVM-project](https://github.com/MdRaihanAhmed-coder/LLVM-Clang-Instrumentation.git)
+- [Clone my repo inside LLVM-project](git clone https://github.com/MdRaihanAhmed-coder/LLVM-Clang-Instrumentation.git)
 - Build your llvm again with `make or ninja`
 - Create a C file,
 ```
